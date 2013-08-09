@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Yet another test
 
 Here is yet another post
