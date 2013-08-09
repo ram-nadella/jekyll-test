@@ -6,6 +6,10 @@ layout: post
 
 Here is yet another post
 
+{% highlight ruby %}
+
 ``` ruby
 (1..10).to_a.reduce(:+)
 ```
+
+{% endhighlight %}
